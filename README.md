@@ -1,5 +1,4 @@
 # Part-dependent Label Noise 
-(Code coming soon!)
 
 NeurIPS‘20: Part-dependent Label Noise: Towards Instance-dependent Label Noise (PyTorch implementation).  
 
@@ -27,7 +26,6 @@ Here is a training example:
 python main.py \
     --dataset mnist \
     --noise_rate 0.2 \
-    --seed 1 \
     --gpu 0
 ```
 If you find this code useful in your research, please cite  
